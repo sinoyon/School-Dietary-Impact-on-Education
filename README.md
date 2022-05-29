@@ -8,3 +8,5 @@ Nadeem Arshad et al. (2014) stated that there is a correlation between food cons
 academics. Students who skipped their breakfast, lunch and dinner due to being busy or having
 lots of commitments will feel lazy and apathy during class and studying (p. 750). Based on the
 statement, our group will analyze the impact of school dietary on education.
+ 
+ 
